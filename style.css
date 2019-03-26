@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+
+#form {
+    text-align: center;
+}
+
+#list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#block {
+    position: relative;
+    width: 30%;
+    height: 230px;
+    background-color: floralwhite;
+    border: 1px solid black;
+}
+
+#text {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 17px;
+}
+
+pre {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 14px;
+}
+
+#flag {
+    position: absolute;
+    top: 120px;
+    left: 25%;
+}
+
+img {
+    position: absolute;
+    width: 160px;
+    height: 100px;
+}
